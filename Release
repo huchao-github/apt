@@ -1,8 +1,8 @@
-Origin: Test1
-Label: Test2
+Origin: Test
+Label: Test
 Suite: stable
 Version: 1.0
-Codename: Test3
+Codename: Test
 Architecture: iphoneos-arm
 Components: main
-Description: Test4
+Description: Test
